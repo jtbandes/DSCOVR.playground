@@ -1,0 +1,3 @@
+`DSCOVR.playground` is an [interactive playground](https://developer.apple.com/swift/blog/?id=35) which uses the Twitter API to fetch images from the [Earth Polychromatic Imaging Camera](http://epic.gsfc.nasa.gov/) on the DSCOVR satellite. More information can be found [on my blog](http://bandes-stor.ch/blog/2016/04/22/dscovr-the-earth/).
+
+(This demo is free for personal and educational use. If you plan to use it for anything else, please credit me — see LICENSE.txt for details. Naturally, this license only applies to the material I’ve produced, which doesn’t include the EPIC imagery, tweets by [`@dscovr_epic`](https://twitter.com/dscovr_epic), or the SpaceX launch video, for which I can claim no copyright.)
